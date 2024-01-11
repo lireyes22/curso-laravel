@@ -7,7 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="{{Route('custom')}}">custom</a>
-    <a href="{{Route('contacto')}}">contacto</a>
+    contactame
 </body>
 </html>
